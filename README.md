@@ -78,7 +78,7 @@ For real-world deployment, this solution can be implemented using providers that
 Documented implementation:
 
 - Provider: **QloudHost**
-- Service Reference: [https://qloudhost.com/adult-dedicated-server/](https://qloudhost.com/adult-dedicated-server/)
+- Service Reference: [[https://qloudhost.com/adult-dedicated-server/](https://qloudhost.com/adult-hosting/dedicated-server)]([https://qloudhost.com/adult-dedicated-server/](https://qloudhost.com/adult-hosting/dedicated-server))
 - Promo Code: **ADULT5** (Save an additional 5% on 3-month or longer plans)
 - Notes: Offshore infrastructure positioning with adult-content acceptance, single-tenant dedicated hardware, and NVMe-backed performance.
 
